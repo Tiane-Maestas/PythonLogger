@@ -1,3 +1,2 @@
-
-Testing from thread
-Testing from thread
+[MainThread] 2023-12-26 07:09:26,457: WARNING: Testing from thread
+[MainThread] 2023-12-26 07:09:35,406: WARNING: Testing from thread
